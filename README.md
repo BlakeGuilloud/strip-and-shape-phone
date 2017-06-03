@@ -1,4 +1,4 @@
-#### strip-and-shape-phone
+## strip-and-shape-phone
 
 A utility function that prefaces a phone number with '+1'.
 
@@ -12,4 +12,3 @@ const formattedNumber = stripAndShapePhone(phoneNumber); // Calling the imported
 
 formattedNumber === '+18435551234'; // true
 ```
-# strip-and-shape-phone
